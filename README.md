@@ -15,20 +15,21 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajid-alam-chowdhury&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=sajid-alam-chowdhury&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views">
 </p>
 
 ---
 
 ## 👋 About Me
 
-<table>
+<table border="0">
 <tr>
-<td width="68%" valign="top">
+<td width="64%" valign="middle">
 
 I am a **PhD student in Computer Science at [Wayne State University](https://wayne.edu/)** working at the intersection of **multimodal learning** and **trustworthy AI**, with much of my current research centered on **Large Vision-Language Models (LVLMs)**.
 
 ### My current work spans:
+
 - 🔐 **Privacy-aware vision-language reasoning**
 - 🛡️ **Adversarial attacks, defenses & robustness**
 - 🎥 **Egocentric video understanding & VideoQA**
@@ -38,9 +39,14 @@ I am a **PhD student in Computer Science at [Wayne State University](https://way
 > **Building trustworthy multimodal systems that can reason reliably, preserve privacy, and remain robust.**
 
 </td>
-<td width="32%" align="center" valign="top">
 
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="220" alt="Coding GIF"/>
+<td width="36%" align="center" valign="middle">
+
+<img
+  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
+  width="300"
+  alt="Coding"
+/>
 
 </td>
 </tr>
@@ -51,13 +57,13 @@ I am a **PhD student in Computer Science at [Wayne State University](https://way
 ## 🔬 Research Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Trustworthy_AI-2563eb?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multimodal_Learning-3b82f6?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LVLMs-7c3aed?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Privacy-10b981?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adversarial_ML-f59e0b?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Egocentric_Video-ec4899?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/VideoQA-06b6d4?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trustworthy_AI-2563eb?style=flat-square&logoColor=white" alt="Trustworthy AI">
+  <img src="https://img.shields.io/badge/Multimodal_Learning-3b82f6?style=flat-square&logoColor=white" alt="Multimodal Learning">
+  <img src="https://img.shields.io/badge/LVLMs-7c3aed?style=flat-square&logoColor=white" alt="LVLMs">
+  <img src="https://img.shields.io/badge/Privacy-10b981?style=flat-square&logoColor=white" alt="Privacy">
+  <img src="https://img.shields.io/badge/Adversarial_ML-f59e0b?style=flat-square&logoColor=white" alt="Adversarial ML">
+  <img src="https://img.shields.io/badge/Egocentric_Video-ec4899?style=flat-square&logoColor=white" alt="Egocentric Video">
+  <img src="https://img.shields.io/badge/VideoQA-0891b2?style=flat-square&logoColor=white" alt="VideoQA">
 </p>
 
 ---
@@ -66,18 +72,16 @@ I am a **PhD student in Computer Science at [Wayne State University](https://way
 
 My research includes work on **adversarial attacks and defenses in computer vision**, including a publication in **IET Image Processing**.
 
-<p>
-  <a href="https://sajid-alam-chowdhury.github.io/">
-    <img src="https://img.shields.io/badge/View_Publications-1f6feb?style=flat-square&logo=googlescholar&logoColor=white" alt="Publications">
-  </a>
-</p>
+<a href="https://sajid-alam-chowdhury.github.io/">
+  <img src="https://img.shields.io/badge/View_Publications-2563eb?style=flat-square&logo=googlescholar&logoColor=white" alt="Publications">
+</a>
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,c,java,git,github,linux,docker,vscode&perline=12" alt="Languages and Tools">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,c,java,git,github,linux,docker,vscode&perline=13" alt="Languages and Tools">
 </p>
 
 **Research Stack:**  
@@ -85,15 +89,27 @@ My research includes work on **adversarial attacks and defenses in computer visi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sajid-alam-chowdhury&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-alam-chowdhury&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajid-alam-chowdhury&theme=github_dark"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=sajid-alam-chowdhury&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
+  <img
+    width="46%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajid-alam-chowdhury&theme=github_dark"
+    alt="GitHub Stats"
+  />
+  <img
+    width="46%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajid-alam-chowdhury&theme=github_dark"
+    alt="Repositories per Language"
+  />
 </p>
 
 ---
@@ -102,7 +118,7 @@ My research includes work on **adversarial attacks and defenses in computer visi
 
 <p align="center">
   <a href="https://sajid-alam-chowdhury.github.io/">
-    <img src="https://img.shields.io/badge/Website-Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-Portfolio-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/md-sajid-alam-chowdhury">
@@ -110,7 +126,7 @@ My research includes work on **adversarial attacks and defenses in computer visi
   </a>
   &nbsp;
   <a href="mailto:sajid.chowdhury009@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sajid.chowdhury009@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-sajid.chowdhury009-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
